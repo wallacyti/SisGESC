@@ -105,16 +105,16 @@ tornando toda despesa de pessoal rastreável no financeiro.
 
 ## Como executar o script SQL
 
-1. Acesse [onecompiler.com/mysql](https://onecompiler.com/mysql) *(sem instalar nada)*
-2. Cole o conteúdo do arquivo `sql/facgesc_ddl.sql`
-3. Clique em **Run**
+**Requisitos:** MySQL Workbench instalado com MySQL Server rodando.
 
-Ou, com MySQL instalado:
-```bash
-mysql -u root -p < sql/facgesc_ddl.sql
-```
+1. Abra o **MySQL Workbench**
+2. Conecte no servidor local (geralmente `localhost`, porta `3306`)
+3. Vá em **File → Open SQL Script** e selecione o arquivo `sql/facgesc_ddl.sql`
+4. Clique no **raio (⚡)** para executar o script completo
+5. No painel **Schemas** à esquerda, clique em atualizar — o banco `facgesc` deve aparecer com todas as 32 tabelas
 
----
+> Certifique-se de que o MySQL Server está iniciado antes de conectar.
+> Em caso de erro de FK, execute o script completo de uma vez (não linha por linha).
 
 *"Arquitetos da Inteligência: Construindo o futuro, uma tabela de cada vez." — Prof. Clóvis*
 
