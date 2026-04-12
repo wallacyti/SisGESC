@@ -1,7 +1,7 @@
 # FacGESC — Sistema de Gestão de Faculdade Particular
 
 > Projeto acadêmico desenvolvido para a disciplina de **Banco de Dados**  
-> UNICID — Universidade Cidade de São Paulo | Ciência da Computação | 2026  
+> UNICID — Universidade Cidade de São Paulo | Análise e Desenvolvimento de Sistemas| 2026  
 > Prof. Clóvis
 
 ---
@@ -116,5 +116,4 @@ tornando toda despesa de pessoal rastreável no financeiro.
 > Certifique-se de que o MySQL Server está iniciado antes de conectar.
 > Em caso de erro de FK, execute o script completo de uma vez (não linha por linha).
 
-*"Arquitetos da Inteligência: Construindo o futuro, uma tabela de cada vez." — Prof. Clóvis*
 
