@@ -17,6 +17,8 @@ O banco de dados foi projetado para alimentar, na Fase 2, algoritmos de
 Inteligência Artificial capazes de prever risco de evasão, automatizar
 processos acadêmicos e gerar indicadores estratégicos para a gestão.
 
+![DER SisGESC](./diagrams/facGESC - Faculdade Particular.png)
+
 ---
 
 ## Módulos do sistema
@@ -38,22 +40,7 @@ processos acadêmicos e gerar indicadores estratégicos para a gestão.
 
 ---
 
-## Estrutura do repositório
-
-
-FacGESC/
-
-├── README.md
-├── docs/
-│   ├── requisitos.pdf          # Documento de Requisitos
-│   └── dicionario.pdf          # Dicionário de Dados completo
-|    └── facGESC - Grupo Wallacy.pdf    # Pdf completo para o projeto
-├── diagramas/
-│   └── der_transacional.png    # Diagrama Entidade-Relacionamento
-└── sql/
-└── facgesc_ddl.sql         # Script DDL completo (32 tabelas)
-
-  Organização do Repositório
+## Organização do Repositório
 /docs: Documento de Requisitos e Dicionário de Dados completo.
 
 /diagrams: Imagem do Diagrama Entidade-Relacionamento (DER) em alta resolução.
