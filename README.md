@@ -42,6 +42,7 @@ processos acadêmicos e gerar indicadores estratégicos para a gestão.
 
 
 FacGESC/
+
 ├── README.md
 ├── docs/
 │   ├── requisitos.pdf          # Documento de Requisitos
@@ -51,6 +52,15 @@ FacGESC/
 │   └── der_transacional.png    # Diagrama Entidade-Relacionamento
 └── sql/
 └── facgesc_ddl.sql         # Script DDL completo (32 tabelas)
+
+  Organização do Repositório
+/docs: Documento de Requisitos e Dicionário de Dados completo.
+
+/diagrams: Imagem do Diagrama Entidade-Relacionamento (DER) em alta resolução.
+
+/scripts: Script SQL DDL para criação da estrutura do banco de dados.
+
+
 
 ---
 
