@@ -26,7 +26,7 @@ processos acadêmicos e gerar indicadores estratégicos para a gestão.
 
 ---
 
-## Módulos do sistema
+  ## Módulos do sistema
 
 | Módulo | Responsabilidade | Tabelas |
 |---|---|---|
