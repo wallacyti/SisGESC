@@ -46,6 +46,7 @@ FacGESC/
 ├── docs/
 │   ├── requisitos.pdf          # Documento de Requisitos
 │   └── dicionario.pdf          # Dicionário de Dados completo
+|    └── facGESC - Grupo Wallacy.pdf    # Pdf completo para o projeto
 ├── diagramas/
 │   └── der_transacional.png    # Diagrama Entidade-Relacionamento
 └── sql/
@@ -92,14 +93,6 @@ tornando toda despesa de pessoal rastreável no financeiro.
 | RN-06 | Financeiro + Acadêmico | 2+ parcelas vencidas → bloqueio acadêmico |
 | RN-07 | Acadêmico + RH | Docente leciona apenas na sua área de formação |
 | RN-08 | Acadêmico + Financeiro | Inadimplência + baixa frequência → flag de risco de evasão (BI/IA) |
-
----
-
-## Cronograma de entregas
-
-- [x] **Entrega 1** — 12/04/2026: DER Transacional + Dicionário de Dados + Script DDL
-- [ ] **Entrega 2** — 26/04/2026: DER Completo (OLTP + OLAP) + Data Warehouse
-- [ ] **Entrega 3** — 10/05/2026: Implementação física + Triggers + Apresentação
 
 ---
 
