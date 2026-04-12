@@ -53,6 +53,7 @@ processos acadêmicos e gerar indicadores estratégicos para a gestão.
 ## Links importantes
 
 - **DER (dbdiagram.io):** https://dbdiagram.io/d/Copy-of-SisGESC-ERP-Escola-69d7fdbf0f7c9ef2c0be67c6
+- **Documentação official:** /docs/FacGESC_Documentacao.pdf
 - **Documento de Requisitos:** /docs/requisitos.pdf
 - **Dicionário de Dados:** /docs/dicionario.pdf
 - **Script SQL:** /sql/facgesc_ddl.sql
