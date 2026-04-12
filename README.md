@@ -17,7 +17,7 @@ O banco de dados foi projetado para alimentar, na Fase 2, algoritmos de
 Inteligência Artificial capazes de prever risco de evasão, automatizar
 processos acadêmicos e gerar indicadores estratégicos para a gestão.
 
-![DER SisGESC](./diagrams/facGESC - Faculdade Particular.png)
+<img width="6322" height="4461" alt="facGESC - Faculdade Particular" src="https://github.com/user-attachments/assets/a20ad84a-2fef-4d31-8a5e-65d79b808d45" />
 
 ---
 
